@@ -1,0 +1,19 @@
+study_area:
+  huc_id: "060101"
+  name: "Upper French Broad"
+
+nwm:
+  forecast_type: "medium_range"
+  ensemble_members: 7
+
+hand:
+  resolution: 10
+  source: "ciroh"
+
+svi:
+  year: 2022
+  themes: ["socioeconomic", "household", "minority", "housing"]
+
+output:
+  formats: ["geotiff", "html"]
+  directory: "./output"
