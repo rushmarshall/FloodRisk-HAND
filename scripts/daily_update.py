@@ -27,7 +27,7 @@ NWM_STATUS_URL = (
 )
 
 HEADERS = {
-    "User-Agent": "FloodRisk-HAND-Monitor/1.0 (github.com/sromarshall/FloodRisk-HAND)",
+    "User-Agent": "FloodRisk-HAND-Monitor/1.0 (github.com/rushmarshall/FloodRisk-HAND)",
     "Accept": "application/geo+json",
 }
 
