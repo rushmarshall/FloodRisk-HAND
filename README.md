@@ -38,7 +38,7 @@ pip install floodrisk-hand
 Or from source:
 
 ```bash
-git clone https://github.com/rushmarshall/FloodRisk-HAND.git
+git clone https://github.com/sromarshall/FloodRisk-HAND.git
 cd FloodRisk-HAND
 pip install -e ".[dev]"
 ```
@@ -129,7 +129,7 @@ output:
 Contributions welcome. Please open an issue to discuss proposed changes before submitting a pull request.
 
 ```bash
-git clone https://github.com/rushmarshall/FloodRisk-HAND.git
+git clone https://github.com/sromarshall/FloodRisk-HAND.git
 cd FloodRisk-HAND
 pip install -e ".[dev]"
 pytest
